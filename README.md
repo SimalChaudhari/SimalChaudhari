@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p>
- I have 5 years of experience worked with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
+ I have 5 years of experience working with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
 
-I have extensive knowledge of MEARN, MEAN, PHP(Laravel, Codeigniter) with popular frameworks and libraries.
+I have extensive knowledge of MEARN, MEAN, and PHP(Laravel, Codeigniter) with popular frameworks and libraries.
 
 My deep full-stack experience includes Node.js and Express, MongoDB as well as more traditional technologies like PHP, and MySQL.
 
-Recently, I have worked on several E-Commerce projects piling up great knowledge on Blockchain tech.
+Recently, I have worked on several E-Commerce projects piling up great knowledge on Full-stack.
 
 I am also not new to the remote freelancing scene, so I am extremely flexible with any working hours.
 </p>
