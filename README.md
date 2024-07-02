@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
 <p>
- I have 5 years of experience working with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
+ I have 6 years of experience working with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
 
 I have extensive knowledge of MEARN, MEAN, and PHP(Laravel, Codeigniter) with popular frameworks and libraries.
 
